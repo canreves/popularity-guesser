@@ -27,4 +27,5 @@ build/
 .coverage.*
 htmlcov/
 .tox/
-.nox/                                   
+.nox/ 
+cspell.json                            
